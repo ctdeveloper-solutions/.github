@@ -14,7 +14,7 @@ We are a small but dynamic team of developers specializing in:
 - **Operating Systems**: Deep expertise in Linux environments
 - **APIs**: Expertise in designing and implementing RESTful APIs for scalable solutions
 
-Our team is dedicated to building platforms from scratch, tailored to meet diverse industry needs. Together with my two partners, we’ve successfully delivered several projects across various domains, always ensuring top-notch quality and reliability.
+Our team is dedicated to building platforms from scratch, tailored to meet diverse industry needs. Together with my partners, we’ve successfully delivered several projects across various domains, always ensuring top-notch quality and reliability.
 
 ### 🛠️ Our Strengths
 - Robust and scalable solutions designed with efficiency and security in mind.
